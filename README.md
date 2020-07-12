@@ -1,2 +1,6 @@
 # Shopify-Account-Generator
-Generate shopify accounts with requests
+
+Generate Shopify accounts with requests in c#.
+
+	- Proxy Support
+	- Any Shopify site
